@@ -1,1 +1,1 @@
-** Odin Project exercise to practise HTML **
+**Odin Project exercise to practise HTML**
